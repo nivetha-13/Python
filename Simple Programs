@@ -1,0 +1,24 @@
+1. to find the area of a triangle:
+
+base=10
+height=5
+area=1/2*(base*height)
+print("Area of a triangle is:",area)
+
+
+
+2.)Write a program that asks user to enter a number. Program should then tell if number is odd or even.
+
+indian=["samosa","Idly","Paratta"]
+Chinese=["Fried rice","Rolls","Dumplings"]
+Italian=["Pizza","Pasta"]
+
+dish=input("Enter dish name:")
+if dish in indian:
+  print("Indian dish")
+elif dish in Chinese:
+  print("Chinese")
+elif dish in Italian:
+  print("Italian")
+ else
+  print("other cuisine:",dish)
