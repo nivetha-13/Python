@@ -1,0 +1,10 @@
+String functions:
+
+strip() – remove whitespaces
+len() – no of characters in string
+lower()
+upper()
+replace() – replace one string with another
+split() – split using a character
+input() – to accept user input from keyboard
+
